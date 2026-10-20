@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # Título principal
-st.title("🚀 Guía Completa de Componentes Streamlit")
+st.title("🚀 Guía Completa de Componentes Streamlit - JCATG")
 st.markdown("---")
 
 # Sidebar para navegación
